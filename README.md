@@ -1,0 +1,1 @@
+# amazon-manual-testing-project
