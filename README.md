@@ -17,20 +17,25 @@ This project demonstrates manual testing of a sample e-commerce website (Amazon 
 
  Bug Tracking (Jira)
 
-Bugs were tracked and managed using Jira, simulating a real QA environment.  
-Below is a sample screenshot of a reported bug with proper steps and status tracking.
+Bugs were reported and tracked using **Jira**.  
+Here are two examples with steps, priorities, and actual vs expected outcomes.
 
-![Login Bug Screenshot](Screenshots/jira_bug_login.png)
+- Login allows access with incorrect password  
+  ![Login Bug Screenshot](Screenshots/jira_bug_login.png)
+
+- Cart icon does not update after adding product  
+  ![Cart Icon Bug Screenshot](Screenshots/jira_bug_cart_icon.png)
 
 
  Project Structure
 
-| Folder / File                | Description                                      |
-|-----------------------------|--------------------------------------------------|
-| `TestCases/`                | Excel file with 5+ manual test cases             |
-| `BugReports/`               | Excel bug report with 3 identified issues        |
-| `Amazon_Bug_Report.xlsx`    | Final consolidated bug report (downloadable)     |
-| `README.md`                 | Project summary and documentation                |
+| Folder / File                | Description                                       |
+|-----------------------------|---------------------------------------------------|
+| `TestCases/`                | Excel file with 5+ manual test cases              |
+| `BugReports/`               | Excel bug report with 3 identified issues         |
+| `Screenshots/`              | Jira bug report screenshots (Login & Cart issues) |
+| `Amazon_Bug_Report.xlsx`    | Final consolidated bug report (downloadable)      |
+| `README.md`                 | Project summary and documentation                 |
 
 ---
 
