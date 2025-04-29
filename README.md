@@ -26,6 +26,10 @@ Here are two examples with steps, priorities, and actual vs expected outcomes.
 - Cart icon does not update after adding product  
   ![Cart Icon Bug Screenshot](Screenshots/jira_bug_cart_icon.png)
 
+- Search result does not match the entered keyword  
+  ![Search Bug](Screenshots/jira_bug_search_result.png)
+
+
 
  Project Structure
 
