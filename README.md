@@ -10,8 +10,8 @@ This project demonstrates manual testing of a sample e-commerce website (Amazon 
 - **Tested Features:** Login, Product Search, Add to Cart  
 - **Testing Type:** Manual Functional Testing  
 - **Techniques Used:** STLC, Boundary Value Analysis, Equivalence Partitioning  
-- **Tools Used:** Excel (Test Case & Bug Tracking)
-
+- **Tools Used:** Excel (Test Case Design)
+                  Jira(Bug Reporting & Tracking)
 ---
 ---
 
