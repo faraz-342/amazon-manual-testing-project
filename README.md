@@ -13,6 +13,15 @@ This project demonstrates manual testing of a sample e-commerce website (Amazon 
 - **Tools Used:** Excel (Test Case & Bug Tracking)
 
 ---
+---
+
+ Bug Tracking (Jira)
+
+Bugs were tracked and managed using Jira, simulating a real QA environment.  
+Below is a sample screenshot of a reported bug with proper steps and status tracking.
+
+![Login Bug Screenshot](Screenshots/jira_bug_login.png)
+
 
  Project Structure
 
