@@ -36,11 +36,11 @@ Here are two examples with steps, priorities, and actual vs expected outcomes.
 | Folder / File                | Description                                       |
 |-----------------------------|---------------------------------------------------|
 | `TestCases/`                | Excel file with 5+ manual test cases              |
+| `Password_Test_Cases/`      | Excel file with BVA and EP test cases for password validation |
 | `BugReports/`               | Excel bug report with 3 identified issues         |
 | `Screenshots/`              | Jira bug report screenshots (Login & Cart issues) |
 | `Amazon_Bug_Report.xlsx`    | Final consolidated bug report (downloadable)      |
 | `README.md`                 | Project summary and documentation                 |
-
 ---
 
  Test Case Highlights
